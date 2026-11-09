@@ -14,6 +14,7 @@ I used an AI assistant to write the course. That covers the written guide (kept 
 | `mlguide_data.py` | Generates all the data locally (2-D toy datasets and 16×16 synthetic digit images), plus shared helpers. Nothing is downloaded. | AI (course material) |
 | `solutions/` | Reference solutions to the 14 tasks. | AI (course material) |
 | `my_work/` | My own solutions to the tasks. | Me |
+| `glossary-images/` | Pictures of the maths symbols and formulas in my glossary doc, so Google Docs can show them typeset. | AI (course material) |
 
 ## Setup
 
