@@ -16,7 +16,7 @@ I used an AI assistant to write the course. That covers the written guide (kept 
 | `my_work/` | My own solutions to the tasks. | Me |
 | `glossary-images/` | Pictures of the maths symbols and formulas in my glossary doc, so Google Docs can show them typeset. | AI (course material) |
 | `maths-reference-images/` | Pictures of the symbols and derivatives in my Maths reference doc, so Google Docs can show them typeset. | AI (course material) |
-| `notation-images/` | Typeset symbols, formulas and two diagrams for my Notation doc and its explainer pages. | AI (course material) |
+| `notation-images/` | Typeset symbols, formulas and diagrams for my Notation doc and its explainer pages. | AI (course material) |
 
 ## Setup
 
